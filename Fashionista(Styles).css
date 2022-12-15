@@ -1,0 +1,15 @@
+.BodyBackgroundColor{
+    background-color: plum;
+}
+@font-face { font-family: Belle; src: url("LaBelleAurore-Regular.ttf"); }
+h2 { font-family: Belle;
+color:Turquoise;}
+.Turquoise{
+    height: 100px;width: 100px; position: relative; background-color: #0dcaf0; left: 0px;
+}
+.Yellow{
+    height: 100px;width: 100px; position: relative; background-color: #ffca2c; left: 130px;
+}
+.Blue{
+    height: 100px;width: 100px; position: relative; background-color: cornflowerblue; left: 260px;
+}
